@@ -1,6 +1,6 @@
-## Hi there 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E6E63&height=160&section=header&text=Maryam%20Nadeem&fontColor=ffffff&fontSize=44&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=62" />
+# Maryam Nadeem
 
+**AI Engineer & Full-Stack Developer**
 <p>
   <img src="https://komarev.com/ghpvc/?username=Maryam-Nadeem847&style=flat-square&color=2E6E63" alt="Profile views" />
   <img src="https://user-badge.committers.top/pakistan/Maryam-Nadeem847.svg" alt="Committers rank" />
