@@ -1,10 +1,6 @@
 # Maryam Nadeem
 
 **AI Engineer & Full-Stack Developer**
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Maryam-Nadeem847&style=flat-square&color=2E6E63" alt="Profile views" />
-  <img src="https://user-badge.committers.top/pakistan/Maryam-Nadeem847.svg" alt="Committers rank" />
-</p>
 
 > *Building autonomous AI systems & full-stack products.*   
 > Bridging LLMs, Computer Vision & Agentic AI with real-world **Healthcare** and **Education**.
@@ -52,10 +48,12 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam-Nadeem847&show_icons=true&theme=default&hide_border=true&title_color=2E6E63&icon_color=C2632D" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Nadeem847&theme=minimal&hide_border=true&color=2E6E63&line=2E6E63&point=C2632D" />
+</p>
+<p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Nadeem847&layout=compact&hide_border=true&title_color=2E6E63" />
 </p>
 
