@@ -6,21 +6,21 @@
   <img src="https://user-badge.committers.top/pakistan/Maryam-Nadeem847.svg" alt="Committers rank" />
 </p>
 
-> *Building autonomous AI systems & full-stack products.* 🧠⚡  
+> *Building autonomous AI systems & full-stack products.*   
 > Bridging LLMs, Computer Vision & Agentic AI with real-world **Healthcare** and **Education**.
 
 ---
 
-- 🎓 **Stanford Code in Place '25** — participated as a Student.
-- 🤖 **LabLab.ai Hackathons** — AI Genesis · The Internet of Agents · AI Agents on ARC with USDC.
-- 🦷 **Den10** — AI for clinical dentistry; detects caries & periapical lesions from OPG/X-ray imagery.
-- 📚 **VisioLab** — JSON-driven visual learning platform for the Punjab Textbook Board (Class 9–12).
-- 🛒 **Dukaan Bot** — a chatbot-based inventory management system.
-- ✍️ **Blog** → [From RNNs to Transformers: The Journey of Attention](ADD_MEDIUM_LINK)
+- **Stanford Code in Place '25** — participated as a Student.
+- **LabLab.ai Hackathons** — AI Genesis · The Internet of Agents · AI Agents on ARC with USDC.
+- **Den10** — AI for clinical dentistry; detects caries & periapical lesions from OPG/X-ray imagery.
+- **VisioLab** — JSON-driven visual learning platform for the Punjab Textbook Board (Class 9–12).
+- **Dukaan Bot** — a chatbot-based inventory management system.
+- **Blog** → [From RNNs to Transformers: The Journey of Attention](ADD_MEDIUM_LINK)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam-Nadeem847&show_icons=true&theme=default&hide_border=true&title_color=2E6E63&icon_color=C2632D" />
@@ -61,12 +61,12 @@
 
 ---
 
-### 🌐 Connect
+### Connect
 
 <p>
   <a href="https://www.linkedin.com/in/maryam-nadeem-269895313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ADD_EMAIL"><img src="https://img.shields.io/badge/Email-C2632D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="ADD_MEDIUM_LINK"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mn586677@gmai.com"><img src="https://img.shields.io/badge/Email-C2632D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@mn586677/from-rnns-to-transformers-the-journey-of-attention-5a4e902b7124"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <sub>Always open to discussing AI, HealthTech, or a good recipe for convection-oven chocolate chip cookies. 🍪</sub>
