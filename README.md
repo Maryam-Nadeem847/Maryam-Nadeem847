@@ -1,8 +1,8 @@
 # Maryam Nadeem
 
-**AI Engineer & Full-Stack Developer**
+**AI Engineer**
 
-> *Building autonomous AI systems & full-stack products.*   
+> *Building autonomous AI systems.*   
 > Bridging LLMs, Computer Vision & Agentic AI with real-world **Healthcare** and **Education**.
 
 ---
@@ -51,9 +51,6 @@
 ### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Nadeem847&theme=minimal&hide_border=true&color=2E6E63&line=2E6E63&point=C2632D" />
-</p>
-<p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Nadeem847&layout=compact&hide_border=true&title_color=2E6E63" />
 </p>
 
@@ -67,4 +64,4 @@
   <a href="https://medium.com/@mn586677/from-rnns-to-transformers-the-journey-of-attention-5a4e902b7124"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<sub>Always open to discussing AI, HealthTech, or a good recipe for convection-oven chocolate chip cookies. 🍪</sub>
+<sub>Always open to discussing AI, HealthTech.</sub>
